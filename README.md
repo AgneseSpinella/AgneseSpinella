@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **agnesespinella@gmail.com**
 
-- ⚡ Fun fact **I have a degree in Modern Literature and i'm attending the faculty of Digital Humanities**
+
+
+- ⚡ Fun fact: **I have a degree in Modern Literature and i'm attending the faculty of Digital Humanities**
 
 
 
