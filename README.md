@@ -23,7 +23,7 @@ Take a look at some project!
 
 - [Address Book](https://agnesespinella.github.io/VanillaJS-Addressbook/) in VanillaJS, HTML, CSS <br>
 - [Cities By Country](https://agnesespinella.github.io/Cities-by-Country/) in VanillaJS, HTML, CSS. It was developed during the Code Week of Edgemony Bootcamp.
-
+- [Travel Hub](ancient-sands-73880.herokuapp.com/) in Next.js. It was developed with a team of 5 dev for the Final Project of Edgemony Bootcamp
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=agnesespinella&show_icons=true&locale=en&layout=compact" alt="agnesespinella" /></p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=agnesespinella&" alt="agnesespinella" /></p>
