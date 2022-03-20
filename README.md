@@ -29,6 +29,8 @@ Take a look at some project!
     >[live demo](https://agnesespinella.github.io/VanillaJS-Addressbook/)
 - [Cities By Country](https://github.com/AgneseSpinella/Cities-by-Country) in VanillaJS, HTML, CSS. It was developed during the Code Week of Edgemony Bootcamp.
     >[live demo](https://agnesespinella.github.io/Cities-by-Country/)
+- [Timer app](https://github.com/AgneseSpinella/Timer-app) in React JS. Experimentation with TailwindCSS
+    >[live demo](https://timer-app-six.vercel.app/)
 - [Travel Hub](https://github.com/AgneseSpinella/project-casimiro-a) in Next.js. It was developed with a team of 5 dev for the Final Project of Edgemony Bootcamp
     >[live demo](https://ancient-sands-73880.herokuapp.com/)
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=agnesespinella&show_icons=true&locale=en&layout=compact" alt="agnesespinella" /></p>
