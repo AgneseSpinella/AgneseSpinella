@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://c.tenor.com/edGw8WiSFD4AAAAi/over-here-get-greetings.gif" width="55px" heigth="55px"> 
+<h1 align="center">Hi there <img src="https://c.tenor.com/YEyladI4_aYAAAAi/chibi-cat-mochi-cat.gif" width="20px" heigth="20px"> 
   I'm Agnese Spinella</h1>
 <h3 align="center">A junior Frontend developer from Italy</h3>
 
